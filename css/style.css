@@ -11,7 +11,11 @@ body {
     max-width: 1000px;
     margin: 0 auto;
 
+
 }
+
+
+
 
 .title{
     text-align: center;
@@ -60,7 +64,24 @@ body {
     margin-top: 50px;
   }
 
+  .name{
+    margin-bottom: 30px;
+  }
 
+  .mod-img{
+    float: left;
+    height: 150px;
+    width: 120px;
+  }
+  
+    
+  .email{
+    margin-top: 30px;
+    color: rgb(201, 134, 47);
+    font-style: oblique;
+    font-size: 13px;
+    text-decoration-line: underline;
+  }
 
 
 
